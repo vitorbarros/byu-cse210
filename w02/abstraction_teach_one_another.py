@@ -26,3 +26,13 @@ class Card:
     def display_card(self):
         """this method is responsible for displaying a card randomly"""
         return
+
+
+class Game:
+    def start_game(self):
+        """this is responsible for starting the game"""
+        return
+
+    def end_game(self):
+        """this is responsible for ending the game"""
+        return
